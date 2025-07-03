@@ -78,4 +78,4 @@ This will generate the SQLite database (`sales_data.db`), insert mock data, run 
 
 **Dhanushu V**  
 Email: dhanushu77@gmail.com  
-GitHub: [your-github-username] (update with your actual username)
+
